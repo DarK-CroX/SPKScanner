@@ -1,7 +1,7 @@
 on_string = """
-   𝑊𝐸𝐿𝐶𝑂𝑀𝐸
-𝐍𝐀𝐌𝐄:{name}
-𝐑𝐀𝐍𝐊:{Enforcer}
+「 Cᴏɴɴᴇᴄᴛᴇᴅ Tᴏ Sᴘᴇᴄɪᴀʟ Pʀᴏᴠɪsɪᴏɴs Fᴏʀ Kɪʀᴀ! 」
+➥ 𝚈𝚘𝚞𝚛 𝙽𝚊𝚖𝚎: {name}
+➥ 𝚈𝚘𝚞𝚛 𝚁𝚊𝚗𝚔: {Enforcer}
 """
 
 # Make sure not to change these too much
